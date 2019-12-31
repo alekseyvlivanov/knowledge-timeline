@@ -1,0 +1,6 @@
+# Netlify redirects
+
+https://stupefied-khorana-6269de.netlify.com/* https://timeline.chessiah.xyz/:splat 301!
+http://stupefied-khorana-6269de.netlify.com/* https://timeline.chessiah.xyz/:splat 301!
+
+http://timeline.chessiah.xyz/* https://timeline.chessiah.xyz/:splat 301!
