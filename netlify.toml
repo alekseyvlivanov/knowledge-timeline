@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "https://knowledge-timeline-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://knowledge-timeline.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://knowledge-timeline-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://knowledge-timeline.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://knowledge-timeline.aleksey-vl-ivanov.com/*"
+  to = "https://knowledge-timeline.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true

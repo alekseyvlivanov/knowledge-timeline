@@ -1,6 +1,0 @@
-# Netlify redirects
-
-https://knowledge-timeline-chessiah.netlify.app/* https://knowledge-timeline.chessiah.com/:splat 301!
-http://knowledge-timeline-chessiah.netlify.app/* https://knowledge-timeline.chessiah.com/:splat 301!
-
-http://knowledge-timeline.chessiah.com/* https://knowledge-timeline.chessiah.com/:splat 301!
